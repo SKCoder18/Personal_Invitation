@@ -6,9 +6,9 @@ Standalone personal invitation link generator. No dependencies, database, or bui
 Import SKCoder18/Personal_Invitation. Select framework **Other**, leave the build command empty, and use the repository root as the output directory.
 
 ## Use
-Enter a guest or family name, select English or Telugu, click Generate link, then copy the link. Open invitation previews the wedding website, not this generator.
+Enter a guest or family name, select Bride’s side (Vummadi Vari) or Groom’s side (Mukkara Vari), select English or Telugu, click Generate link, then copy the link. Open invitation previews the wedding website, not this generator.
 
-Links point to https://wedding-invitation-blond-six.vercel.app/ with guest and lang query parameters. The wedding website must publish its personalization update before names appear there. This repository does not deploy or modify the wedding website.
+Links point to https://wedding-invitation-blond-six.vercel.app/ with guest, lang and side query parameters. The wedding website must publish its personalization update before names appear there. This repository does not deploy or modify the wedding website.
 
 To change the wedding destination, edit the live URL in index.html.
 
